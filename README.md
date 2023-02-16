@@ -1,1 +1,1 @@
-npx tailwindcss -i ./style.css -o ./dist/output.css --watch
+npx tailwindcss -o build.css
